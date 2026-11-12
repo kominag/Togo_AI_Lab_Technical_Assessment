@@ -219,7 +219,7 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 
-
-data/administrative_boundaries
-data/administrative_yield
-data/modis_vegetation_indices
+#Ignore the data files directories
+data/administrative_boundaries/
+data/administrative_yield/
+data/modis_vegetation_indices/
